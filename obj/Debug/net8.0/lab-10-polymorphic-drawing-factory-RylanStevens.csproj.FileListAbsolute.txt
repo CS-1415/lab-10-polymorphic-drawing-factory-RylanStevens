@@ -1,0 +1,15 @@
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/bin/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/bin/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.deps.json
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/bin/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.runtimeconfig.json
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/bin/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.dll
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/bin/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.pdb
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/obj/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/obj/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.AssemblyInfoInputs.cache
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/obj/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.AssemblyInfo.cs
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/obj/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.csproj.CoreCompileInputs.cache
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/obj/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.sourcelink.json
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/obj/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.dll
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/obj/Debug/net8.0/refint/lab-10-polymorphic-drawing-factory-RylanStevens.dll
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/obj/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.pdb
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/obj/Debug/net8.0/lab-10-polymorphic-drawing-factory-RylanStevens.genruntimeconfig.cache
+/Users/rylanstevens/programming 2024/lab-10-polymorphic-drawing-factory-RylanStevens/obj/Debug/net8.0/ref/lab-10-polymorphic-drawing-factory-RylanStevens.dll
